@@ -17,5 +17,5 @@
 
 
 <p align="center">
-  <img src="sunday..png" width="400" alt="Gothic Potrait"/>
+  <img src="sword..png" width="400" alt="Gothic Potrait"/>
 </p>
