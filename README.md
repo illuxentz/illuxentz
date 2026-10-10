@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="dizzy..webp" width="400" alt="Gothic Potrait"/><p <p align="center<img src="dizzy..webp" width="400" alt="Gothic Potrait"/>
+  <img src="dizzy..webp" width="400" alt="Gothic Potrait"/><p <p align="center <p align="center"><img src="dizzy..webp" width="400" alt="Gothic Potrait"/>
 
 
 
