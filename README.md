@@ -12,6 +12,6 @@
 
 
 <p align="center">
-  $\small\color{black}\text{"Tonight we roam, and if they listen really close, they can hear us sing our song" - FNAF .}$
+  $\small\color{grey}\text{"Tonight we roam, and if they listen really close, they can hear us sing our song" - FNAF .}$
 </p>
 
