@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="black dude..png" width="900" alt="Gothic Potrait"/>
+  <img src="black dude..png" width="400" alt="Gothic Potrait"/>
 </p>
 
 
