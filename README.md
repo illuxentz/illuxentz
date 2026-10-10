@@ -14,6 +14,6 @@
   $\small\color{grey}\text{"Gothic dog." - QNGELWINGS .}$
 </p>
 
-     <p align="right">
+     <p align="left">
   <img src="sunday..png" width="400" alt="Gothic Potrait"/>
 </p>
