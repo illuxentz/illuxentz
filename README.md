@@ -16,6 +16,6 @@
 
 
 
-<p align="left">
+<p align="right">
   <img src="sunday..png" width="400" alt="Gothic Potrait"/>
 </p>
