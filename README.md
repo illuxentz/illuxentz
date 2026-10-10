@@ -1,5 +1,5 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="tumblr stars.webp" width="900" alt="Gothic Potrait"/>
+  <img src="deltarune.png" width="900" alt="Gothic Potrait"/>
 </p>
