@@ -20,5 +20,6 @@
   <img src="sword..png" width="400" alt="Gothic Potrait"/>
 </p>
 <p align="center">
-  $\small\color{grey}\text{"C+H freely ." - follow if you won't feel shame about it. .}$
+  $\small\color{grey}\text{"C+H freely ." - follow if wanted  .}$
 </p>
+ALT ACCOUNT.
