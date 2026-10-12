@@ -22,5 +22,3 @@
 <p align="center">
   $\small\color{grey}\text{"W2I ." -   .}$
 </p>
-
-isnt my original acc . 
